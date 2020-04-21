@@ -56,7 +56,7 @@
     "@osjs/textpad-application": "^1.2.7",
     "@osjs/vnc-application": "^0.5.4",
     "@osjs/xterm-application": "^1.1.17",
-    "hyperapp": "^1.2.10",
+    "hyperapp": "^2.0.4",
     "typeface-roboto": "0.0.75"
   },
   "repository": {
