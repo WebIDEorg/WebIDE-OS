@@ -43,7 +43,7 @@
     "@osjs/ftp-adapter": "^0.1.3",
     "@osjs/gapi-provider": "^1.2.4",
     "@osjs/gnome-icons": "^4.0.5",
-    "@osjs/gui": "^4.0.33",
+    "@osjs/gui": "^4.0.34",
     "@osjs/htmlviewer-application": "^1.2.6",
     "@osjs/musicplayer-application": "^1.2.8",
     "@osjs/panels": "^3.0.26",
