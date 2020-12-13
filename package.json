@@ -28,7 +28,7 @@
   "devDependencies": {
     "@osjs/dev-meta": "^2.0.0",
     "html-webpack-plugin": "^4.5.0",
-    "source-map-loader": "^1.1.2"
+    "source-map-loader": "^1.1.3"
   },
   "dependencies": {
     "@osjs/ace-application": "^1.2.7",
