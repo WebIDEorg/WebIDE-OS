@@ -34,7 +34,7 @@
     "@osjs/ace-application": "^1.2.7",
     "@osjs/calculator-application": "^1.2.8",
     "@osjs/client": "^3.5.0",
-    "@osjs/cli": "^3.0.26",
+    "@osjs/cli": "^3.0.28",
     "@osjs/dialogs": "^3.0.22",
     "@osjs/draw-application": "^1.2.10",
     "@osjs/example-application": "^1.1.14",
