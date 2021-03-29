@@ -36,7 +36,7 @@
     "@osjs/client": "^3.5.1",
     "@osjs/cli": "^3.0.28",
     "@osjs/dialogs": "^3.0.22",
-    "@osjs/draw-application": "^1.2.10",
+    "@osjs/draw-application": "^1.2.11",
     "@osjs/example-application": "^1.1.15",
     "@osjs/filemanager-application": "^1.5.0",
     "@osjs/freedesktop-sounds": "^3.0.3",
