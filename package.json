@@ -47,7 +47,7 @@
     "@osjs/gui": "^4.1.0",
     "@osjs/htmlviewer-application": "^1.2.6",
     "@osjs/musicplayer-application": "^1.2.8",
-    "@osjs/panels": "^3.0.31",
+    "@osjs/panels": "^3.0.32",
     "@osjs/preview-application": "^1.1.17",
     "@osjs/server": "^3.2.4",
     "@osjs/settings-application": "^1.2.0",
