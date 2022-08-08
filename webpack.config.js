@@ -5,20 +5,8 @@ const webpack = require('webpack');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const {DefinePlugin} = webpack;
-const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 const npm = require('./package.json');
 const plugins = [];
-
-if (mode === 'production') {
-  plugins.push(new OptimizeCSSAssetsPlugin({
-    cssProcessorOptions: {
-      discardComments: true,
-      map: {
-        inline: false
-      }
-    },
-  }));
-}
 
 module.exports = {
   mode,
