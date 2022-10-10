@@ -28,7 +28,7 @@
   "devDependencies": {
     "@osjs/dev-meta": "^2.2.1",
     "html-webpack-plugin": "^5.5.0",
-    "source-map-loader": "^4.0.0",
+    "source-map-loader": "^4.0.1",
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
