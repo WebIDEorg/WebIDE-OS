@@ -26,16 +26,16 @@
   "author": "Anders Evenrud <andersevenrud@gmail.com>",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "@osjs/dev-meta": "^2.2.1",
+    "@osjs/dev-meta": "^2.3.2",
     "html-webpack-plugin": "^5.5.0",
-    "source-map-loader": "^4.0.0",
+    "source-map-loader": "^4.0.1",
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
     "@osjs/ace-application": "^1.2.7",
     "@osjs/calculator-application": "^1.2.8",
     "@osjs/cli": "^3.1.3",
-    "@osjs/client": "^3.8.1",
+    "@osjs/client": "^3.9.1",
     "@osjs/dialogs": "^3.1.2",
     "@osjs/draw-application": "^1.2.12",
     "@osjs/example-application": "^1.1.16",
